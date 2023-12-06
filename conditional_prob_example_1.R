@@ -9,7 +9,7 @@
 #   - Click on the Tools option,
 #   - Click on Install Package,
 #   - Select Package Archive
-# These example is from https://www.geeksforgeeks.org/how-to-calculate-conditional-probability-in-r/
+# This example is from site https://www.geeksforgeeks.org/how-to-calculate-conditional-probability-in-r/
 
 # Library for calculation of conditional probability
 library(prob)

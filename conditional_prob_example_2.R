@@ -1,4 +1,4 @@
-# This example is from https://www.statology.org/conditional-probability-in-r/
+# This example is from site https://www.statology.org/conditional-probability-in-r/
 
 #create data frame to hold survey responses
 df <- data.frame(gender = rep(c('Male', 'Female'), each = 150),
